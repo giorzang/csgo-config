@@ -1,0 +1,1 @@
+bot_quota_mode normal; bot_difficulty 5; custom_bot_difficulty 5; sv_auto_adjust_bot_difficulty false; bot_allow_shotguns false; bot_allow_sub_machine_guns false; mp_defuser_allocation 2; bot_defer_to_human_goals 0;
