@@ -1,0 +1,83 @@
+{
+  "team1": {
+    "name": "Natus Vincere",
+    "players": {
+      "76561198413082506": "giORZang",
+      "76561199659171801": "416",
+      "76561199114283203": "VonLanh",
+      "76561199311300905": "drop_of_evil",
+      "76561199247994430": "Spin1x"
+    }
+  },
+  "team2": {
+    "name": "Astralis",
+    "players": {
+      "76561199047382137": "Đức Ngủyên (sleepyduck)",
+      "76561199038799558": "Dilys",
+      "76561199053806451": "Tsunamyyy",
+      "76561198847597850": "minhlolike",
+      "76561199010505817": "haise"
+    }
+  },
+  "num_maps": 2,
+  "maplist": [
+    "de_mirage",
+    "de_anubis"
+  ],
+  "map_sides": [
+    "team1_ct",
+    "knife"
+  ],
+  // "spectators": {
+  //   "players": {
+  //     "76561199116875924": "GOTV Records"
+  //   }
+  // },
+  "clinch_series": true,
+  "players_per_team": 5,
+  "cvars": {
+    "hostname": "giORZang Major November: Natus Vincere vs Astralis",
+    "mp_friendlyfire": "1"
+  }
+}
+
+// {
+//   "team1": {
+//     "name": "Team Noob",
+//     "players": {
+//       "76561198413082506": "giORZang"
+//     }
+//   },
+//   "team2": {
+//     "name": "Team 2",
+//     "players": {
+//       "76561199116875924": "m0NESY"
+//     }
+//   },
+//   "num_maps": 5,
+//   "maplist": [
+//     "de_inferno",
+//     "de_nuke",
+//     "de_anubis",
+//     "de_mirage",
+//     "de_dust2"
+//   ],
+//   "map_sides": [
+//     "team2_t",
+//     "team1_ct",
+//     "team2_ct",
+//     "team1_ct",
+//     "knife"
+//   ],
+//   "spectators": {
+//     "players": {
+//       "76561199029206622": "PhungTheLong"
+//     }
+//   },
+//   "clinch_series": false,
+//   "players_per_team": 1,
+//   "cvars": {
+//     "hostname": "giORZang AoLang League: Team Noob vs Team 2",
+//     "mp_friendlyfire": "1"
+//   }
+// }
